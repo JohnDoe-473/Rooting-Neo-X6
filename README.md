@@ -36,3 +36,8 @@ o - - - - - o - - - - -     Step 3    - - - - - o - - - - - o - - - - - o - - - 
  You can manually to enable/disable apps to have 'Root right'  from there.
 - Since default time-out for Magisk is a little short, Go to Settings --> Request Timeout --> select 60 seconds
 - It's probably not necessary  but I would just reboot the Neo X-6 once, just to be safe.
+
+
+<p align="center">  
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=JohnDoe-473.Rooting-Neo-X6" />  
+</p>  
