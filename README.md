@@ -1,5 +1,6 @@
 
  = = = =  With ADB method   = = = = = = = = = = = = = 
+ 
 o - - - - - o - - - - -     Step 1    - - - - - o - - - - - o - - - - - o - - - - - o
 - Rooting this way will not affect  your current installed apps in anyway. Everything safe and stay the ways they are.
 - Connect the male-to-male USB Cable between PC (any USB)  and X-6  (OTG only)
